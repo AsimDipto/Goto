@@ -1,16 +1,67 @@
 [
-  {"name": "SM TV", "url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/New_Bdix.m3u"},
-  {"name": "AynaOTT", "url": "https://playlist-cricfy.noobon.top/aynaott.php"},
-  {"name": "Toffee", "url": "https://raw.githubusercontent.com/AsimDipto/tf-auto-upate/refs/heads/main/toffee_NS_Player.m3u"},
-  {"name": "Ayna", "url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/main/AynaOTT.m3u"},
-  {"name": "ReareZone", "url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/RoarZone.m3u"},
-  {"name": "SunNext", "url": "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u"},
-  {"name": "Premium TV", "url": "https://file.garden/aPorwu8r4WIJS6PP/Live%20Stream.m3u"},
-  {"name": "RoarZone", "url": "https://raw.githubusercontent.com/AsimDipto/RoarZone/refs/heads/main/RoarZone-Playlist.m3u"},
-  {"name": "Bd iptv", "url": "https://iptv-org.github.io/iptv/countries/bd.m3u"},
-  {"name": "Voot", "url": "https://torecudiankitafuckofmylifeschi.netlify.app//Tormayrekhankiputmagicodanibessamagifuckyousexy.kts"},
-  {"name": "Ayna OTT", "url": "https://raw.githubusercontent.com/AsimDipto/ATT-auto-update/refs/heads/main/ATT%20playlist.m3u"},
-  {"name": "Yupp", "url": "https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/main/playlist.m3u"},
-  {"name": "SonyBD", "url": "https://ranapk.short.gy/sonybd/playlist.php"},
-  {"name": "Akash Go", "url": "https://raw.githubusercontent.com/mpshimul/MasterLinkTV/main/raw_m3u/akash.m3u"}
+  {
+    "name": "DishTv",
+    "image": "https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/1/AmazonStores/A21TJRUUN4KGV/d5086253b614724be106c06be13f7d54.w600.h600._RO299,1,0,0,0,0,0,0,0,0,15_FMpng_.jpg",
+    "url": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/dishtv.m3u"
+  },
+  {
+    "name": "AynaOTT",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAant65yQ_au1e51MFs-uiE6juswXv4ZJoNCpzBBSg4q7DzJ1NeliS80c&s=10",
+    "url": "https://playlist-cricfy.noobon.top/aynaott.php"
+  },
+  {
+    "name": "Toffee",
+    "image": "https://toffeelive.com/images/toffee_logo.png",
+    "url": "https://raw.githubusercontent.com/AsimDipto/tf-auto-upate/refs/heads/main/toffee_NS_Player.m3u"
+  },
+  {
+    "name": "ReareZone",
+    "image": "https://roar.media/wp-content/uploads/2018/03/roar-logo-1.png",
+    "url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/RoarZone.m3u"
+  },
+  {
+    "name": "SunNext",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Sun_NXT_logo.png/220px-Sun_NXT_logo.png",
+    "url": "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u"
+  },
+  {
+    "name": "Pishow",
+    "image": "https://playbox.com.bd/logo.png",
+    "url": "http://playlist-storage.pages.dev/PLAYLIST/playboxtv.m3u"
+  },
+  {
+    "name": "RoarZone",
+    "image": "https://roar.media/wp-content/uploads/2018/03/roar-logo-1.png",
+    "url": "https://raw.githubusercontent.com/AsimDipto/RoarZone/refs/heads/main/RoarZone-Playlist.m3u"
+  },
+  {
+    "name": "Bd iptv",
+    "image": "https://w7.pngwing.com/pngs/224/696/png-transparent-bangladesh-television-logo-broadcasting-television-channel-others-miscellaneous-television-text.png",
+    "url": "https://iptv-org.github.io/iptv/countries/bd.m3u"
+  },
+  {
+    "name": "Voot",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Voot_logo.svg/1200px-Voot_logo.svg.png",
+    "url": "https://fifabangladesh.site/PLAYLIST/voot.php"
+  },
+  {
+    "name": "Ayna OTT",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAant65yQ_au1e51MFs-uiE6juswXv4ZJoNCpzBBSg4q7DzJ1NeliS80c&s=10",
+    "url": "https://raw.githubusercontent.com/AsimDipto/ATT-auto-update/refs/heads/main/ATT%20playlist.m3u"
+  },
+  {
+    "name": "Yupp",
+    "image": "https://www.yupptv.com/images/yupptv-logo.png",
+    "url": "https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/main/playlist.m3u"
+  },
+  {
+    "name": "SonyBD",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sony_logo.svg/2560px-Sony_logo.svg.png",
+    "url": "https://ranapk.short.gy/sonybd/playlist.php"
+  },
+  {
+    "name": "Akash Go",
+    "image": "https://akashdth.com/images/logo.png",
+    "url": "https://raw.githubusercontent.com/mpshimul/MasterLinkTV/main/raw_m3u/akash.m3u"
+  }
 ]
